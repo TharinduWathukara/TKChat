@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1020250605830",
+    "firebase_url": "https://tkchat-eeb40.firebaseio.com",
+    "project_id": "tkchat-eeb40",
+    "storage_bucket": "tkchat-eeb40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020250605830:android:1e71619b8539fdb5",
+        "android_client_info": {
+          "package_name": "com.example.tharindu.tkchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020250605830-3e4fllktg9ipchj0kua2s41m8ffqb62m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tharindu.tkchat",
+            "certificate_hash": "b8f64551dad9552fd11cc3ed5fbccbee15afc127"
+          }
+        },
+        {
+          "client_id": "1020250605830-9psvs21kbmptk259ca629tfuac1ogl50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSBuPQvW3KxMuIwbq0_03t7Ijk6_Pe2mE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020250605830-9psvs21kbmptk259ca629tfuac1ogl50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
